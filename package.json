@@ -1,0 +1,13 @@
+{
+    "name": "thott-bot",
+    "version": "1.0.0",
+    "description": "my first discord bot",
+    "main": "bot.js",
+    "author": {
+        "name": "Jason Simons"
+    },
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "winston": "^2.4.1"
+    }
+}
